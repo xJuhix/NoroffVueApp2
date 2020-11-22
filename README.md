@@ -1,4 +1,14 @@
-# recipepuppy
+# Recipe Puppy
+
+In order to rund the project please follow the steps below. 
+
+## Download
+
+download the zip folder
+
+## Find
+
+cd into the downloaded folder
 
 ## Project setup
 ```
